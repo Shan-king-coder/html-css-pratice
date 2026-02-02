@@ -1,0 +1,13 @@
+.paragraph {
+  background-color: orangered;
+  color:white;
+}
+.name{color: darkorange;}
+#cardSection{border: 10px solid ghostwhite ;}
+.detail{border: 5px solid ghostwhite}
+.container1{
+display: flex;  
+align-items: center;
+justify-content: space-between;
+}
+.paragraph{margin-top: 0;}
